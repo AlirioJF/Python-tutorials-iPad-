@@ -1,1 +1,1 @@
-Esta carpeta contiene los archivo de mi prier modelo de regresion lineal con Python
+Esta carpeta contiene los archivo de mi primer modelo de regresion lineal con Python
